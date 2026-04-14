@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/Landing page.html" }]
+}
